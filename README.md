@@ -1,8 +1,15 @@
 # Angular 6 quick start app
+
 Angular quick start sample application with angular-cli 6, bootstrap 4, font-awesome 5
 
-## Demo
-[Click here for demo](https://stackblitz.com/github/ashfaqch/angular6-quick-start-app)
+[![dependency Status](https://david-dm.org/ashfaqch/angular6-quick-start-app.svg)](https://david-dm.org/ashfaqch/angular6-quick-start-app#info=dependencies)
+[![devDependency Status](https://david-dm.org/ashfaqch/angular6-quick-start-app/dev-status.svg)](https://david-dm.org/ashfaqch/angular6-quick-start-app#info=devDependencies)
+[![Known Vulnerabilities](https://snyk.io/test/github/ashfaqch/angular6-quick-start-app/badge.svg)](https://snyk.io/test/github/ashfaqch/angular6-quick-start-app)
+
+[![GitHub forks](https://img.shields.io/github/forks/ashfaqch/angular6-quick-start-app.svg?style=social&label=Fork)](https://github.com/ashfaqch/angular6-quick-start-app/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ashfaqch/angular6-quick-start-app.svg?style=social&label=Star)](https://github.com/ashfaqch/angular6-quick-start-app)
+
+[Demo](https://stackblitz.com/github/ashfaqch/angular6-quick-start-app)
 
 ## Installs 
 * bootstrap, jquery and popper:
